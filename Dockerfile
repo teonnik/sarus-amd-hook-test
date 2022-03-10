@@ -1,4 +1,3 @@
-# Build stage with Spack pre-installed and ready to be used
 FROM rocm/dev-ubuntu-20.04:4.5.2-complete as builder
 
 # Basic tools: git, wget, tar
